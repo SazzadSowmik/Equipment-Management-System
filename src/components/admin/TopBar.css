@@ -1,0 +1,14 @@
+.TopBar{
+    background-color: orange;
+    padding-left: 1.2rem;
+}
+.tbItem{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+  
+.faq {
+    margin-left: auto;
+}
